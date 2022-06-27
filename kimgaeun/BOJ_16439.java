@@ -1,4 +1,4 @@
-package BOJ;
+package kimgaeun;
 import java.util.*;
 
 class BOJ_16439 {
